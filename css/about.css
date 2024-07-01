@@ -155,7 +155,6 @@ nav {
 
 
 .grid-item {
-    flex: 1;
     padding: 10px;
 }
 .centered-content {
@@ -754,8 +753,8 @@ align-items: center;
     font-family: MontserratMedium;
     font-weight: 700;
     font-style: normal;
-    font-size: 3rem;
-    line-height: 42px;
+    font-size: 2.5rem;
+    line-height: 3rem;
     color: #2a323c;
 }
 .zriea {
